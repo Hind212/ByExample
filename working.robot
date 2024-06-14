@@ -1,5 +1,5 @@
 *** Variables ***
-${country}    USA
+${country}    MAROC
 ${city}       Marrakech
 
 *** Test Cases ***
@@ -9,3 +9,4 @@ Say bye
     Log     hello
     Log     Hind
     Log     Test branch
+
